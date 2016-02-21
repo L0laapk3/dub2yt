@@ -22,3 +22,10 @@ After you reloaded, you should get something like this:
 ![chat](http://i.imgur.com/o9rXbqJ.png)
 
 You're done! Further instructions will be displayed in the chat.
+
+
+
+
+
+
+Disclaimer: I do not own pye.sq10.net. I have recieved permission from the owner to make this.

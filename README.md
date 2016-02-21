@@ -17,6 +17,8 @@ Then, click here: ![install](http://i.imgur.com/GMrKqC3.png)
 
 ### Step three: Reload dubtrack
 
-After you reloaded, you should get something like this: ![chat](http://i.imgur.com/o9rXbqJ.png)
+After you reloaded, you should get something like this:
+
+![chat](http://i.imgur.com/o9rXbqJ.png)
 
 You're done! Further instructions will be displayed in the chat.
